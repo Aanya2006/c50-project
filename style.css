@@ -1,0 +1,14 @@
+*{background-color:antiquewhite;}
+h1{color: palevioletred;}
+img{border: solid;}
+
+.header{
+    display:flex;
+justify-content: space-between;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
